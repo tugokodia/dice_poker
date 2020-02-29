@@ -1,4 +1,4 @@
-# TODO: класс игрока, компа наследовать, сохранения
+# TODO: класс игрока, компа наследовать, сохранения 
 import random
 import time, os
 from colorama import Fore, Style
