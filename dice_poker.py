@@ -1,4 +1,4 @@
-#dice_poker
+# покер на игральных костях
 import random
 import time, os
 from colorama import Fore, Style
